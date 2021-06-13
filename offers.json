@@ -1,0 +1,23 @@
+[
+  {
+    "offerTitle": "Suzuki Alto",
+    "offerDescription": "Greatest car in the world",
+    "offerType": "Cars",
+    "phoneNumber": "555",
+    "email": "ron@gmail.com"
+  },
+  {
+    "offerTitle": "Mint Condition Classic Guitar",
+    "offerDescription": "Never used guitar,best for beginners",
+    "offerType": "Guitar",
+    "phoneNumber": "333",
+    "email": "ron@gmail.com"
+  },
+  {
+    "offerTitle": "Iphone 8",
+    "offerDescription": "Maybe old,but strong as 3 LG",
+    "offerType": "CellPhones",
+    "phoneNumber": "222",
+    "email": "ron@gmail.com"
+  }
+]

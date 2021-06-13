@@ -1,0 +1,22 @@
+[
+  {
+    "name": "ron",
+    "email": "ron@gmail.com",
+    "hashedPassword": "$2b$10$JmQGs/I5EtaOhlNtbGi.MudjyD7B3yyIWZcbCSO7XaKDMpf59Kr6W"
+  },
+  {
+    "name": "ran",
+    "email": "ran@gmail.com",
+    "hashedPassword": "$2b$10$Pi2uu0DI8E/3Bs8mq2w1huhn/BYcyLjGb5IRDNXUE/p.UH6cJPx8m"
+  },
+  {
+    "name": "sapir",
+    "email": "sapir@gmail.com",
+    "hashedPassword": "$2b$10$F3X/9tCJzifiKguW8uLz1.HGJGTMrApjLQFvqiMkmE03vBZWC6rgm"
+  },
+  {
+    "name": "mike",
+    "email": "mike@gmail.com",
+    "hashedPassword": "$2b$10$PJNbFF0IjvocaeK76V2xOe5Z0sVboN3pUnlkaagWJIhhbRs0FPfDG"
+  }
+]
